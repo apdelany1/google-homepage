@@ -1,0 +1,29 @@
+.navstyle {
+    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+
+    
+}
+.search {
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+ 
+
+    
+}
+
+.box{
+    background-color: lightblue;
+
+
+}   
