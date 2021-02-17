@@ -46,6 +46,17 @@
     color:black;
 }
 
+.button {
+    display:inline-block;
+    position: absolute;
+    margin-left: 92%;
+    margin-top: 1%;
+    position: absolute;
+    text-decoration: none;
+    color: blue;  
+    border: none;
+}
+
 .info {
     text-align: center;
     display: inline-block;
