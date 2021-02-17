@@ -50,6 +50,8 @@
     text-align: center;
     display: inline-block;
     position: absolute;
-    padding-left: 50%;
-    padding-top: 53.5%;
+    
+    margin-left: 50%;
+    margin-top: 53.5%;
+    background-color: lightblue;
 }
